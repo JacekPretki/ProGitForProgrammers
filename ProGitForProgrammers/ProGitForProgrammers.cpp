@@ -9,6 +9,7 @@ int main()
     for (int i = 0; i < 10; i++) {
         std::cout << "Demo!";
         std::cout << "\nNew one\n";
+        std::cout << "its";
     }
 }
 
