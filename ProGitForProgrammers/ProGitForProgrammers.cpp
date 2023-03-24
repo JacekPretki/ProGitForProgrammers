@@ -10,6 +10,7 @@ int main()
         std::cout << "Demo!";
         std::cout << "\nNew one\n";
         std::cout << "its";
+        std::cout << "\ttabulator\t";
     }
 }
 
