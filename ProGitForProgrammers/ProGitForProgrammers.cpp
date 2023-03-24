@@ -11,6 +11,7 @@ int main()
         std::cout << "\nNew one\n";
         std::cout << "its";
         std::cout << "\ttabulator\t";
+	  std::cout << "newest";
     }
 }
 
